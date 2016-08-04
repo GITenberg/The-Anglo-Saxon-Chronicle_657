@@ -1,0 +1,32 @@
+_repo: The-Anglo-Saxon-Chronicle_657
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Giles, J. A. (John Allen)
+    alias: Giles, John Allen
+    birthdate: 1808
+    deathdate: 1884
+    gutenberg_agent_id: '760'
+    url: http://www.gutenberg.org/2009/agents/760
+  - agent_name: Ingram, J. (James)
+    alias: Ingram, James
+    birthdate: 1774
+    deathdate: 1850
+    gutenberg_agent_id: '338'
+    url: http://www.gutenberg.org/2009/agents/338
+description: ''
+gutenberg_issued: '1996-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '657'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Anglo-Saxons -- Early works to 1800'
+- !lcsh 'Great Britain -- History -- Anglo-Saxon period, 449-1066 -- Sources'
+- GITenberg
+title: The Anglo-Saxon Chronicle
+url: http://www.gutenberg.org/ebooks/657
